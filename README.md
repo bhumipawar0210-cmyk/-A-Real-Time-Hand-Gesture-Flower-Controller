@@ -18,7 +18,8 @@ A web-based interactive project that uses your webcam to detect hand gestures in
 ## 📸 How to Use
 1. Open the live demo link above
 2. Allow camera access when prompted
-3. Move your hand in front of the camera to control the flower
-
+3. Pinch your left hand thumb and index finger together, then spread them apart — watch Bloom respond.
+Do the same with your right hand to control Growth.
+4.Sway either hand side to side to kick up wind.
 ## 👩‍💻 Author
 **Bhumi** ([@bhumipawar0210-cmyk](https://github.com/bhumipawar0210-cmyk))
